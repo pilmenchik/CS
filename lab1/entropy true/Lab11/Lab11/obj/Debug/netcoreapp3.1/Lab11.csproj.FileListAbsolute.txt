@@ -1,0 +1,13 @@
+D:\учеба\cs\entropy true\Lab11\Lab11\bin\Debug\netcoreapp3.1\Lab11.exe
+D:\учеба\cs\entropy true\Lab11\Lab11\bin\Debug\netcoreapp3.1\Lab11.deps.json
+D:\учеба\cs\entropy true\Lab11\Lab11\bin\Debug\netcoreapp3.1\Lab11.runtimeconfig.json
+D:\учеба\cs\entropy true\Lab11\Lab11\bin\Debug\netcoreapp3.1\Lab11.runtimeconfig.dev.json
+D:\учеба\cs\entropy true\Lab11\Lab11\bin\Debug\netcoreapp3.1\Lab11.dll
+D:\учеба\cs\entropy true\Lab11\Lab11\bin\Debug\netcoreapp3.1\Lab11.pdb
+D:\учеба\cs\entropy true\Lab11\Lab11\obj\Debug\netcoreapp3.1\Lab11.csprojAssemblyReference.cache
+D:\учеба\cs\entropy true\Lab11\Lab11\obj\Debug\netcoreapp3.1\Lab11.AssemblyInfoInputs.cache
+D:\учеба\cs\entropy true\Lab11\Lab11\obj\Debug\netcoreapp3.1\Lab11.AssemblyInfo.cs
+D:\учеба\cs\entropy true\Lab11\Lab11\obj\Debug\netcoreapp3.1\Lab11.csproj.CoreCompileInputs.cache
+D:\учеба\cs\entropy true\Lab11\Lab11\obj\Debug\netcoreapp3.1\Lab11.dll
+D:\учеба\cs\entropy true\Lab11\Lab11\obj\Debug\netcoreapp3.1\Lab11.pdb
+D:\учеба\cs\entropy true\Lab11\Lab11\obj\Debug\netcoreapp3.1\Lab11.genruntimeconfig.cache

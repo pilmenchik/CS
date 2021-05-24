@@ -1,0 +1,13 @@
+D:\учеба\cs\Base64true\Base64true\bin\Debug\netcoreapp3.1\Base64true.exe
+D:\учеба\cs\Base64true\Base64true\bin\Debug\netcoreapp3.1\Base64true.deps.json
+D:\учеба\cs\Base64true\Base64true\bin\Debug\netcoreapp3.1\Base64true.runtimeconfig.json
+D:\учеба\cs\Base64true\Base64true\bin\Debug\netcoreapp3.1\Base64true.runtimeconfig.dev.json
+D:\учеба\cs\Base64true\Base64true\bin\Debug\netcoreapp3.1\Base64true.dll
+D:\учеба\cs\Base64true\Base64true\bin\Debug\netcoreapp3.1\Base64true.pdb
+D:\учеба\cs\Base64true\Base64true\obj\Debug\netcoreapp3.1\Base64true.csprojAssemblyReference.cache
+D:\учеба\cs\Base64true\Base64true\obj\Debug\netcoreapp3.1\Base64true.AssemblyInfoInputs.cache
+D:\учеба\cs\Base64true\Base64true\obj\Debug\netcoreapp3.1\Base64true.AssemblyInfo.cs
+D:\учеба\cs\Base64true\Base64true\obj\Debug\netcoreapp3.1\Base64true.csproj.CoreCompileInputs.cache
+D:\учеба\cs\Base64true\Base64true\obj\Debug\netcoreapp3.1\Base64true.dll
+D:\учеба\cs\Base64true\Base64true\obj\Debug\netcoreapp3.1\Base64true.pdb
+D:\учеба\cs\Base64true\Base64true\obj\Debug\netcoreapp3.1\Base64true.genruntimeconfig.cache
